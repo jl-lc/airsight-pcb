@@ -61,6 +61,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Manufacturer" "ST Microelectronics"
@@ -85,8 +86,8 @@
 		)
 		(symbol "STM32F103C8T6_0_0"
 			(rectangle
-				(start -20.32 -48.26)
-				(end 20.32 40.64)
+				(start -20.32 40.64)
+				(end 20.32 -48.26)
 				(stroke
 					(width 0.254)
 					(type default)
